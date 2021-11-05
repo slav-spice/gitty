@@ -1,0 +1,9 @@
+head {
+  text-align: center;
+  color: orange;
+  font-family: "Courier New", monospace;
+}
+
+body {
+ background-image: linear-gradient(to right,  #ff9933, #00cc99);
+}
