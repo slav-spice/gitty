@@ -1,7 +1,9 @@
+
 p {
   text-align: center;
-  color: orange;
+  color: white;
   font-family: "Courier New", monospace;
+  font-size: 60px;
 }
 
 body {
