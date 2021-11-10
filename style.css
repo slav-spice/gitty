@@ -5,6 +5,17 @@ p {
   font-size: 60px;
 }
 
+a {
+color: white;
+  font-family: "Courier New", monospace;
+  font-size: 15px;
+}
+
+p1 {
+color: white;
+  font-family: "Courier New", monospace;
+  font-size: 15px;
+}
 body {
  background-image: linear-gradient(to right,  #ff9933, #00cc99);
 }
